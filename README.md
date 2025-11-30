@@ -1,3 +1,4 @@
+
 # Binance Futures Trading Bot
 
 A Python-based CLI trading bot for Binance Futures Testnet (USDT-M). Supports Market, Limit, Stop-Limit, and TWAP algorithmic orders.
@@ -13,3 +14,7 @@ A Python-based CLI trading bot for Binance Futures Testnet (USDT-M). Supports Ma
    ```bash
    git clone [your-repo-link]
    cd [your-repo-name]
+=======
+# ashu_binance_bot
+binance_bot
+
